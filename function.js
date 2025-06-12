@@ -40,4 +40,4 @@ mul(5, 6)
 function div(num7,num8){
     console.log(num7/num8)
 }
-div(0987654321,1234567890)
+div(987654321,1234567890)
