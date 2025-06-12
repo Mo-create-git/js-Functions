@@ -41,5 +41,3 @@ function div(num7,num8){
     console.log(num7/num8)
 }
 div(0987654321,1234567890)
-div(0.8000000072900001, 1)
-
