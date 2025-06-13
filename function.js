@@ -41,3 +41,26 @@ function div(num7,num8){
     console.log(num7/num8)
 }
 div(987654321,1234567890)
+
+let fname = "Saffan"
+let age =20
+function sayname(){
+    console.log(" My name is "  + fname + " and my age is " + age)
+}
+sayname()
+
+let lname ="Mohammed"
+let age2 = 21
+function sayname2(){
+    console.log("My lname is " + lname + " and my age is " + age2)   }
+    sayname2()
+
+let fname2 = "SAFFAN"
+let age3 = 20
+function sayname3(){
+    console.log("My name is " + fname2 + " and my age is " + age3)
+    console.log('My name is ' + fname2 + ' and my age is ' + age3)
+    console.log(`My name is ${fname2} and my age is ${age3}`) // Template Literals
+}
+sayname3()
+
